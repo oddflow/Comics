@@ -1,0 +1,34 @@
+img.comics {
+	width: 100px;
+	height: 100px;
+}
+
+
+}
+
+img.align-center {
+	display: block;
+	margin: 0px auto;
+	height: 150px;
+	width: 250px;
+}
+
+body {
+	background-color: #002699;
+	font-family: Arial, Verdana, sans-serif;
+#nav, #feature, .article #footer {
+	background-color: 00061a;
+	margin-top: 20px;
+	padding: 10px 0px 5px 0px;
+}
+
+#feature, .article {
+	height: 100px;
+
+}
+
+li {
+	display: inline;
+	padding: 10px;
+	color: #ffffff;
+}
